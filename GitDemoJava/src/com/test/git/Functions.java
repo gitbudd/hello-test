@@ -9,6 +9,7 @@ public class Functions {
 		for (int i = 0; i < data.length; i++) {
 			System.out.println("Data from array: "+data[i]);
 		}
+		System.out.println("file 1");
 	}
 
 }
