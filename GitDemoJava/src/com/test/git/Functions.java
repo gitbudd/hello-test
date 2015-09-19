@@ -10,6 +10,7 @@ public class Functions {
 			System.out.println("Data from array: "+data[i]);
 		}
 		System.out.println("file 1");
+		System.out.println("This is the change in 2 file");
 	}
 
 }
