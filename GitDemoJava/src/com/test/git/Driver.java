@@ -14,6 +14,7 @@ public class Driver {
 		System.out.println("THIS IS LINE 2 IN DRIVER");
 		
 		System.out.println("Test 1");
+		System.out.println("Test 2");
 	}
 
 }
