@@ -10,7 +10,6 @@ public class Functions {
 			System.out.println("Data from array: "+data[i]);
 			
 		}
-		System.out.println("This is my new change in 1");
 	}
 
 }
