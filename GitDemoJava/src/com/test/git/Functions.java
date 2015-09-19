@@ -20,15 +20,18 @@ public class Functions {
 		System.out.println("test2");
 	}
 	
+
 	public void test4(){
 		System.out.println("Test4");
 		System.out.println("New line in method 4 for conflict");
 	}
-	
+
 	public void test3(){
 		System.out.println("Test3");
 		System.out.println("Added new line in method 3 for conflict test");
 	}
+	
+	
 	
 
 }
