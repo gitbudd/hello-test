@@ -8,9 +8,9 @@ public class Functions {
 		System.out.println("********************New Implementation*********************");
 		for (int i = 0; i < data.length; i++) {
 			System.out.println("Data from array: "+data[i]);
+			
 		}
-		System.out.println("file 1");
-		System.out.println("This is the change in 2 file");
+		System.out.println("This is my new change in 1");
 	}
 
 }
