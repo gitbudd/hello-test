@@ -11,5 +11,9 @@ public class Functions {
 			
 		}
 	}
+	
+	public void test1(){
+		System.out.println("Branch 1: Test1");
+	}
 
 }
