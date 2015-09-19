@@ -22,6 +22,7 @@ public class Functions {
 	
 	public void test4(){
 		System.out.println("Test4");
+		System.out.println("New line in method 4 for conflict");
 	}
 	
 	
