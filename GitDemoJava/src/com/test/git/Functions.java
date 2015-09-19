@@ -6,6 +6,9 @@ public class Functions {
 		String name="RJ";
 		System.out.println("MY NAME IS "+name+" "+getClass().getName());
 		System.out.println("********************New Implementation*********************");
+		for (int i = 0; i < data.length; i++) {
+			System.out.println("Data from array: "+data[i]);
+		}
 	}
 
 }
