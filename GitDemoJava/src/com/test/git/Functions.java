@@ -19,5 +19,9 @@ public class Functions {
 	public void test2(){
 		System.out.println("test2");
 	}
+	
+	public void test4(){
+		System.out.println("test4");
+	}
 
 }
